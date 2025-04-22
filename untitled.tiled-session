@@ -1,0 +1,199 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "TestMap.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "/Users/tobiaskarsch/01 Programming/DHBW/Projektrealisierung/DHBW-Gitea/tiled-project/Almeria/Almeria.json": {
+            "expandedObjectLayers": [
+                3,
+                2,
+                4
+            ],
+            "scale": 1.6061,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 167.7977709980699,
+                "y": 91.8373700267729
+            }
+        },
+        "/Users/tobiaskarsch/01 Programming/DHBW/Projektrealisierung/DHBW-Gitea/tiled-project/Almeria/Almeria.tsx": {
+            "scaleInDock": 1
+        },
+        "/Users/tobiaskarsch/01 Programming/DHBW/Projektrealisierung/DHBW-Gitea/tiled-project/Campus/Inside Rooms/Classroom/ClassroomAssets.tsx": {
+            "scaleInDock": 1
+        },
+        "/Users/tobiaskarsch/01 Programming/DHBW/Projektrealisierung/DHBW-Gitea/tiled-project/Campus/Outside Rooms/Campus.json": {
+            "scale": 1.102890625,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 279.7194871431608,
+                "y": 319.61464900474607
+            }
+        },
+        "/Users/tobiaskarsch/01 Programming/DHBW/Projektrealisierung/DHBW-Gitea/tiled-project/Campus/Outside Rooms/Campus.tsx": {
+            "scaleInDock": 1
+        },
+        "/Users/tobiaskarsch/01 Programming/DHBW/Projektrealisierung/Github/Dev/pixels-development/public/Inside Rooms/Classroom/ClassroomAssets.tsx": {
+            "scaleInDock": 1
+        },
+        "/Users/tobiaskarsch/01 Programming/DHBW/Projektrealisierung/Github/Dev/pixels-development/public/maps/Campus.tsx": {
+            "scaleInDock": 1
+        },
+        "/Users/tobiaskarsch/01 Programming/DHBW/Projektrealisierung/Github/Dev/pixels-development/public/maps/campus.json": {
+            "expandedObjectLayers": [
+                3
+            ],
+            "scale": 1.35375,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 280.33240997229916,
+                "y": 320.2216066481994
+            }
+        },
+        "Almeria.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "CP_V1.0.4.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Campus.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Campus02.tmx": {
+            "expandedObjectLayers": [
+                9,
+                10
+            ],
+            "scale": 2.3785,
+            "selectedLayer": 6,
+            "viewCenter": {
+                "x": 1095.0178684044567,
+                "y": 912.5499264242169
+            }
+        },
+        "Campus_house_01.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Campus_house_02.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "FDR_City.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "First Asset pack.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1.77
+        },
+        "TestMap.tmx": {
+            "expandedObjectLayers": [
+                2
+            ],
+            "scale": 1.9963,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 151.53033111255823,
+                "y": 172.5692531182688
+            }
+        },
+        "Untitled.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tileset.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "trees & stuff.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "untitled copy.tmx": {
+            "expandedGroupLayers": [
+                4
+            ],
+            "expandedObjectLayers": [
+                6
+            ],
+            "scale": 2.6219,
+            "selectedLayer": 7,
+            "viewCenter": {
+                "x": 5684.236622296807,
+                "y": 3029.673137800831
+            }
+        },
+        "untitled.tmx": {
+            "expandedGroupLayers": [
+                4
+            ],
+            "expandedObjectLayers": [
+                6,
+                8,
+                7
+            ],
+            "scale": 0.54,
+            "selectedLayer": 9,
+            "viewCenter": {
+                "x": 3199.074074074074,
+                "y": 2400.9259259259256
+            }
+        },
+        "waterfall & watertiles.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.exportedFilePath": "/Users/tobiaskarsch/Downloads/test/Export/CampusNew",
+    "last.imagePath": "/Users/tobiaskarsch/Downloads",
+    "map.height": 20,
+    "map.lastUsedExportFilter": "JSON map files (*.tmj *.json)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 20,
+    "openFiles": [
+        "Almeria.tsx",
+        "Campus.tsx",
+        "tileset.tsx",
+        "trees & stuff.tsx",
+        "waterfall & watertiles.tsx",
+        "Campus_house_01.tsx",
+        "Campus_house_02.tsx",
+        "/Users/tobiaskarsch/01 Programming/DHBW/Projektrealisierung/DHBW-Gitea/tiled-project/Almeria/Almeria.json",
+        "CP_V1.0.4.tsx",
+        "FDR_City.tsx",
+        "Campus02.tmx",
+        "TestMap.tmx"
+    ],
+    "project": "untitled.tiled-project",
+    "recentFiles": [
+        "/Users/tobiaskarsch/01 Programming/DHBW/Projektrealisierung/DHBW-Gitea/tiled-project/Campus/Outside Rooms/Campus.json",
+        "/Users/tobiaskarsch/01 Programming/DHBW/Projektrealisierung/DHBW-Gitea/tiled-project/Almeria/Almeria.json",
+        "trees & stuff.tsx",
+        "Almeria.tsx",
+        "Campus.tsx",
+        "tileset.tsx",
+        "waterfall & watertiles.tsx",
+        "Campus_house_01.tsx",
+        "Campus_house_02.tsx",
+        "CP_V1.0.4.tsx",
+        "FDR_City.tsx",
+        "Campus02.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
